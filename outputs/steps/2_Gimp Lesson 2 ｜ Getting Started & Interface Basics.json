@@ -1,0 +1,663 @@
+{
+  "video": "2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to this gimp tutorial series in this",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 65.02237654320987,
+        "contrast": 33.00692379110431,
+        "edge_density": 0.5104381001371742,
+        "nonblack": 0.9983496227709191
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 17.675,
+      "title_hint": "open it up for the first time it'll probably look",
+      "showcase_frame_time": 19.366666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 65.10798182441701,
+        "contrast": 33.139535008773876,
+        "edge_density": 0.5133101851851852,
+        "nonblack": 0.9982853223593965
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 32.38,
+      "title_hint": "bottom of this dialogue and then to the right side",
+      "showcase_frame_time": 34.06666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 65.2005744170096,
+        "contrast": 33.15931202467688,
+        "edge_density": 0.5135673868312757,
+        "nonblack": 0.9983496227709191
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 97.24,
+      "title_hint": "apply some changes to it let's click on new and",
+      "showcase_frame_time": 98.93333333333334,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 50.68021262002743,
+        "contrast": 16.516994337464027,
+        "edge_density": 0.1582218792866941,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 119.85,
+      "title_hint": "if we wanna do inches then that's about six and",
+      "showcase_frame_time": 121.53333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 50.72573731138546,
+        "contrast": 18.57025327577966,
+        "edge_density": 0.20027434842249658,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 131.13,
+      "title_hint": "by 10 inches tall and now there's also advanced options",
+      "showcase_frame_time": 133.13333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 50.80242626886145,
+        "contrast": 18.648154334786458,
+        "edge_density": 0.2018818587105624,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 136.215,
+      "title_hint": "right now but if we click on advanced options it",
+      "showcase_frame_time": 137.9,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 51.44984567901235,
+        "contrast": 18.587290495013164,
+        "edge_density": 0.20231052812071332,
+        "nonblack": 0.9990783607681756
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 141.575,
+      "title_hint": "for now let's just click okay it really doesn't matter",
+      "showcase_frame_time": 146.6,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 100.5650505829904,
+        "contrast": 84.84161044802718,
+        "edge_density": 0.22811642661179699,
+        "nonblack": 0.9995498971193416
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 152.09999,
+      "title_hint": "is eight inches wide and then the height is 10",
+      "showcase_frame_time": 156.76666666666668,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 130.37454989711935,
+        "contrast": 98.52627607786854,
+        "edge_density": 0.11574074074074074,
+        "nonblack": 0.9993569958847737
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 169.585,
+      "title_hint": "left click on that we now have the paint brush",
+      "showcase_frame_time": 171.26666666666668,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 116.68925754458162,
+        "contrast": 93.82072696255392,
+        "edge_density": 0.1586076817558299,
+        "nonblack": 0.9995498971193416
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 175.5,
+      "title_hint": "little paint brush on it now if we left click",
+      "showcase_frame_time": 178.16666666666666,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 100.30915637860082,
+        "contrast": 84.66713458103725,
+        "edge_density": 0.2317815500685871,
+        "nonblack": 0.9995498971193416
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 201.27,
+      "title_hint": "done stroke by stroke so now we're back to blank",
+      "showcase_frame_time": 206.3,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 134.2562585733882,
+        "contrast": 99.19261299183086,
+        "edge_density": 0.11927726337448559,
+        "nonblack": 0.9992069615912208
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 229.05,
+      "title_hint": "p on the keyboard we're now using our paintbrush n",
+      "showcase_frame_time": 231.06666666666666,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 114.59803669410151,
+        "contrast": 97.08093852246854,
+        "edge_density": 0.19738082990397804,
+        "nonblack": 0.9901191700960219
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 244.005,
+      "title_hint": "click on eraser we can now erase different things here",
+      "showcase_frame_time": 245.7,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 125.74468449931413,
+        "contrast": 97.68070802028876,
+        "edge_density": 0.19176526063100138,
+        "nonblack": 0.986304012345679
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 259.365,
+      "title_hint": "bit cramped in here right now if we want to",
+      "showcase_frame_time": 261.03333333333336,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 121.93145576131687,
+        "contrast": 95.80092545559384,
+        "edge_density": 0.1981310013717421,
+        "nonblack": 0.9896262002743484
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 264.58,
+      "title_hint": "right next to the ruler and this toolbox over here",
+      "showcase_frame_time": 266.26666666666665,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 96.69821673525377,
+        "contrast": 82.1897965460737,
+        "edge_density": 0.2662037037037037,
+        "nonblack": 0.9973422496570644
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 295.54,
+      "title_hint": "we click in here and then we can erase that",
+      "showcase_frame_time": 297.23333333333335,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 127.81740826474623,
+        "contrast": 97.3122774606887,
+        "edge_density": 0.2088477366255144,
+        "nonblack": 0.9861325445816187
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 300.58002,
+      "title_hint": "example now the size is gonna be 100 i think",
+      "showcase_frame_time": 303.93333333333334,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 127.73049554183814,
+        "contrast": 97.32656914102473,
+        "edge_density": 0.20814043209876543,
+        "nonblack": 0.986304012345679
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 312.565,
+      "title_hint": "to increase the size so now it's even larger and",
+      "showcase_frame_time": 314.23333333333335,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 128.18031978737997,
+        "contrast": 97.42219887184496,
+        "edge_density": 0.20511831275720166,
+        "nonblack": 0.9869898834019204
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 323.78,
+      "title_hint": "also change the size so now our erase is very",
+      "showcase_frame_time": 325.46666666666664,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 129.44395147462276,
+        "contrast": 97.44067888604164,
+        "edge_density": 0.20059585048010975,
+        "nonblack": 0.9903549382716049
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 365.385,
+      "title_hint": "pay much attention to that now other than knowing there's",
+      "showcase_frame_time": 373.06666666666666,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 123.27220507544581,
+        "contrast": 94.63947036463675,
+        "edge_density": 0.2308599108367627,
+        "nonblack": 0.9890903635116598
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 385.03,
+      "title_hint": "and change them but for now let's just ignore everything",
+      "showcase_frame_time": 391.03333333333336,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 111.81029235253773,
+        "contrast": 93.42205236179505,
+        "edge_density": 0.20130315500685872,
+        "nonblack": 0.988661694101509
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 390.495,
+      "title_hint": "on different tools here and then looking at the settings",
+      "showcase_frame_time": 395.8333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 111.83374056927298,
+        "contrast": 93.41926151366843,
+        "edge_density": 0.20044581618655694,
+        "nonblack": 0.988704561042524
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 416.255,
+      "title_hint": "my left mouse button and now i can left click",
+      "showcase_frame_time": 417.93333333333334,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 204.76911865569272,
+        "contrast": 85.9754503056477,
+        "edge_density": 0.05476251714677641,
+        "nonblack": 0.9992283950617284
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 450.255,
+      "title_hint": "can reset the size and now it's small again if",
+      "showcase_frame_time": 451.93333333333334,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 124.54481738683127,
+        "contrast": 111.78197764262087,
+        "edge_density": 0.243269890260631,
+        "nonblack": 0.7274305555555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 462.83,
+      "title_hint": "get to a lower part then we can keep drawing",
+      "showcase_frame_time": 464.5,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 138.18477794924553,
+        "contrast": 110.83163753279118,
+        "edge_density": 0.2595593278463649,
+        "nonblack": 0.7904878257887518
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 485.00497,
+      "title_hint": "shortcuts we'll learn but for now it's good to get",
+      "showcase_frame_time": 488.3666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 110.5303926611797,
+        "contrast": 106.52888728388751,
+        "edge_density": 0.2105195473251029,
+        "nonblack": 0.7662894375857339
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 494.87,
+      "title_hint": "we're gonna talk about changing the color in the next",
+      "showcase_frame_time": 496.56666666666666,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 101.15522119341564,
+        "contrast": 89.44318900661636,
+        "edge_density": 0.19753086419753085,
+        "nonblack": 0.9639703360768176
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "start_time": 504.195,
+      "title_hint": "and learn it in the next video for now i",
+      "showcase_frame_time": 505.8666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_29.png",
+      "screenshot_metrics": {
+        "brightness": 101.12883659122085,
+        "contrast": 89.41523689252871,
+        "edge_density": 0.19858110425240055,
+        "nonblack": 0.9641418038408779
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "start_time": 523.86,
+      "title_hint": "up this dialogue box that lets us save the project",
+      "showcase_frame_time": 530.5333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_30.png",
+      "screenshot_metrics": {
+        "brightness": 49.86068244170096,
+        "contrast": 14.37011266285176,
+        "edge_density": 0.14540466392318244,
+        "nonblack": 0.9992283950617284
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 31,
+      "start_time": 535.235,
+      "title_hint": "so we just change the first part of this to",
+      "showcase_frame_time": 536.9333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_31.png",
+      "screenshot_metrics": {
+        "brightness": 49.91636659807956,
+        "contrast": 14.878658486643767,
+        "edge_density": 0.14930555555555555,
+        "nonblack": 0.9992283950617284
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 32,
+      "start_time": 540.435,
+      "title_hint": "you wanna call it and then it will save it",
+      "showcase_frame_time": 543.8,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_32.png",
+      "screenshot_metrics": {
+        "brightness": 50.305984224965705,
+        "contrast": 14.82242843221073,
+        "edge_density": 0.16844564471879286,
+        "nonblack": 0.9992283950617284
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 33,
+      "start_time": 548.85,
+      "title_hint": "and i'll click save and then that will save it",
+      "showcase_frame_time": 556.5333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_33.png",
+      "screenshot_metrics": {
+        "brightness": 49.871056241426615,
+        "contrast": 12.398870987513842,
+        "edge_density": 0.06590792181069959,
+        "nonblack": 0.9998070987654321
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 34,
+      "start_time": 569.09,
+      "title_hint": "gimp or a program that can open this type of",
+      "showcase_frame_time": 570.7666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_34.png",
+      "screenshot_metrics": {
+        "brightness": 50.065950788751714,
+        "contrast": 14.727952871843605,
+        "edge_density": 0.08329046639231824,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 35,
+      "start_time": 596.03,
+      "title_hint": "done making changes to it then we go to export",
+      "showcase_frame_time": 597.7,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_35.png",
+      "screenshot_metrics": {
+        "brightness": 104.82686042524006,
+        "contrast": 93.00379288391764,
+        "edge_density": 0.2043252743484225,
+        "nonblack": 0.9452160493827161
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 36,
+      "start_time": 601.87,
+      "title_hint": "to save your project and then also export and so",
+      "showcase_frame_time": 604.5666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_36.png",
+      "screenshot_metrics": {
+        "brightness": 53.81151406035665,
+        "contrast": 26.662280396819966,
+        "edge_density": 0.20417524005486967,
+        "nonblack": 0.9995927640603567
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 37,
+      "start_time": 614.535,
+      "title_hint": "file and hit export and then it brings up this",
+      "showcase_frame_time": 616.9,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_37.png",
+      "screenshot_metrics": {
+        "brightness": 58.9642061042524,
+        "contrast": 38.613070667089,
+        "edge_density": 0.18724279835390947,
+        "nonblack": 0.9993998628257887
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 38,
+      "start_time": 622.055,
+      "title_hint": "here and hit export and then it exports this image",
+      "showcase_frame_time": 626.7333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_38.png",
+      "screenshot_metrics": {
+        "brightness": 92.14701217421126,
+        "contrast": 80.94482635932376,
+        "edge_density": 0.250471536351166,
+        "nonblack": 0.9765732167352538
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 39,
+      "start_time": 631.58997,
+      "title_hint": "leave everything at default and then as you get more",
+      "showcase_frame_time": 633.2666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_39.png",
+      "screenshot_metrics": {
+        "brightness": 92.08369770233196,
+        "contrast": 80.9939828139581,
+        "edge_density": 0.24869255829903977,
+        "nonblack": 0.9765732167352538
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 40,
+      "start_time": 637.99,
+      "title_hint": "those advanced settings and so now we can minimize this",
+      "showcase_frame_time": 639.6666666666666,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_40.png",
+      "screenshot_metrics": {
+        "brightness": 92.07169495884774,
+        "contrast": 81.03177711358312,
+        "edge_density": 0.24714934842249658,
+        "nonblack": 0.9764874828532236
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 41,
+      "start_time": 644.935,
+      "title_hint": "we see we have two now a project file which",
+      "showcase_frame_time": 648.3,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_41.png",
+      "screenshot_metrics": {
+        "brightness": 50.17121056241427,
+        "contrast": 17.554073553701922,
+        "edge_density": 0.03922325102880658,
+        "nonblack": 0.9998499657064472
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 42,
+      "start_time": 651.015,
+      "title_hint": "it up in gimp and then we also have an",
+      "showcase_frame_time": 653.7,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_42.png",
+      "screenshot_metrics": {
+        "brightness": 50.613790294924556,
+        "contrast": 18.608891685959026,
+        "edge_density": 0.08320473251028807,
+        "nonblack": 0.9998070987654321
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 43,
+      "start_time": 675.65497,
+      "title_hint": "and you can learn if you're not familiar with that",
+      "showcase_frame_time": 677.3333333333334,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_43.png",
+      "screenshot_metrics": {
+        "brightness": 49.128343621399175,
+        "contrast": 10.093953228019311,
+        "edge_density": 0.05122599451303155,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 44,
+      "start_time": 685.95,
+      "title_hint": "it in the future and then export exports a final",
+      "showcase_frame_time": 687.6333333333333,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_44.png",
+      "screenshot_metrics": {
+        "brightness": 91.89789094650206,
+        "contrast": 80.90098399861532,
+        "edge_density": 0.2501286008230453,
+        "nonblack": 0.9768089849108368
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 45,
+      "start_time": 692.43005,
+      "title_hint": "as you want we could now export and call it",
+      "showcase_frame_time": 694.1,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_45.png",
+      "screenshot_metrics": {
+        "brightness": 90.84237825788752,
+        "contrast": 79.17606301851632,
+        "edge_density": 0.30296210562414266,
+        "nonblack": 0.9750514403292181
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 46,
+      "start_time": 706.7928,
+      "title_hint": "your brush and in the next video we'll we'll be",
+      "showcase_frame_time": 708.4666666666667,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_46.png",
+      "screenshot_metrics": {
+        "brightness": 90.82433127572017,
+        "contrast": 79.2245189066256,
+        "edge_density": 0.3030692729766804,
+        "nonblack": 0.9748585390946503
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 47,
+      "start_time": 715.51,
+      "title_hint": "i'll catch you in the next video",
+      "showcase_frame_time": 717.2,
+      "screenshot": "screenshots/2_Gimp Lesson 2 \uff5c Getting Started & Interface Basics/step_47.png",
+      "screenshot_metrics": {
+        "brightness": 90.8292609739369,
+        "contrast": 79.18693966828495,
+        "edge_density": 0.30579132373113854,
+        "nonblack": 0.9749228395061729
+      },
+      "is_relevant": true
+    }
+  ]
+}

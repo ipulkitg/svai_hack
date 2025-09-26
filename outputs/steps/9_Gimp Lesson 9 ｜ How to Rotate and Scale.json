@@ -1,0 +1,495 @@
+{
+  "video": "9_Gimp Lesson 9 \uff5c How to Rotate and Scale.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 63.18160579561042,
+        "contrast": 42.18227181547598,
+        "edge_density": 0.27484139231824417,
+        "nonblack": 0.9995927640603567
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 26.855,
+      "title_hint": "the scale tool is right next to it it's shift",
+      "showcase_frame_time": 28.533333333333335,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 64.22820216049382,
+        "contrast": 43.55755374300028,
+        "edge_density": 0.19643775720164608,
+        "nonblack": 0.9990354938271605
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 70.315,
+      "title_hint": "selecting our entire image and then with the rotation tool",
+      "showcase_frame_time": 73.0,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 58.29726080246913,
+        "contrast": 44.74274467060176,
+        "edge_density": 0.29835390946502055,
+        "nonblack": 0.9869470164609053
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 104.465,
+      "title_hint": "that brings us into the next tool if we wanted",
+      "showcase_frame_time": 106.13333333333334,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 63.50338648834019,
+        "contrast": 41.086354810713416,
+        "edge_density": 0.28789437585733885,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 124.595,
+      "title_hint": "the scale tool also has this little box in the",
+      "showcase_frame_time": 126.26666666666667,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 69.75985939643347,
+        "contrast": 42.227100175267246,
+        "edge_density": 0.31232853223593965,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 154.225,
+      "title_hint": "and if we do that then it'll allow us to",
+      "showcase_frame_time": 156.56666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 77.17459705075446,
+        "contrast": 42.781752794618896,
+        "edge_density": 0.4006987311385459,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 167.425,
+      "title_hint": "a lot with these tools let's jump over to a",
+      "showcase_frame_time": 169.43333333333334,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 75.98718278463649,
+        "contrast": 39.18890291628601,
+        "edge_density": 0.4501886145404664,
+        "nonblack": 0.9991426611796982
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 172.90001,
+      "title_hint": "this let's go to an image here actually let's do",
+      "showcase_frame_time": 178.6,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 86.89977709190673,
+        "contrast": 71.38326336065167,
+        "edge_density": 0.37377829218106995,
+        "nonblack": 0.992326817558299
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 184.825,
+      "title_hint": "on the rotate tool and then left click and hold",
+      "showcase_frame_time": 186.5,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 96.2801140260631,
+        "contrast": 70.16669846402144,
+        "edge_density": 0.3809799382716049,
+        "nonblack": 0.9991855281207133
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 190.345,
+      "title_hint": "to where we want and then we can hit hit",
+      "showcase_frame_time": 192.03333333333333,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 95.75182184499315,
+        "contrast": 67.73829478673309,
+        "edge_density": 0.408414780521262,
+        "nonblack": 0.9995070301783264
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 212.135,
+      "title_hint": "the left mouse button and then just move to the",
+      "showcase_frame_time": 213.83333333333334,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 96.22063614540467,
+        "contrast": 70.07201015924393,
+        "edge_density": 0.38762431412894377,
+        "nonblack": 0.9991855281207133
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 217.495,
+      "title_hint": "it right there and unclick now that creates this blue",
+      "showcase_frame_time": 219.16666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 96.22237225651577,
+        "contrast": 70.13101836537804,
+        "edge_density": 0.3833161865569273,
+        "nonblack": 0.9991855281207133
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 239.38501,
+      "title_hint": "and it goes away so let's go back to the",
+      "showcase_frame_time": 241.06666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 92.87238511659808,
+        "contrast": 68.37594716961073,
+        "edge_density": 0.390389231824417,
+        "nonblack": 0.9993569958847737
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 249.38501,
+      "title_hint": "hit the enter key and now we've rotated this image",
+      "showcase_frame_time": 253.73333333333332,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 91.45188185871056,
+        "contrast": 68.02951535930347,
+        "edge_density": 0.42725480109739367,
+        "nonblack": 0.9943844307270233
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 257.44,
+      "title_hint": "of this guide so see now we have some black",
+      "showcase_frame_time": 259.1333333333333,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 91.1593792866941,
+        "contrast": 68.12929534533,
+        "edge_density": 0.41184413580246915,
+        "nonblack": 0.9942986968449932
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 270.415,
+      "title_hint": "we want it to and then hit enter now we've",
+      "showcase_frame_time": 275.43333333333334,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 87.28230024005487,
+        "contrast": 64.84261619747494,
+        "edge_density": 0.3815800754458162,
+        "nonblack": 0.9995498971193416
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 285.37,
+      "title_hint": "we grab the selection tool let's grab the crop tool",
+      "showcase_frame_time": 287.06666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 90.24157664609054,
+        "contrast": 59.869647244064566,
+        "edge_density": 0.4098508230452675,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 304.625,
+      "title_hint": "drag down a guide and then rotate to it and",
+      "showcase_frame_time": 306.3,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 84.68104852537724,
+        "contrast": 52.221704399501704,
+        "edge_density": 0.4376286008230453,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 321.53,
+      "title_hint": "there's this clipping and right now it's set to adjust",
+      "showcase_frame_time": 323.53333333333336,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 93.23115997942386,
+        "contrast": 59.32509904723106,
+        "edge_density": 0.34072788065843623,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 329.395,
+      "title_hint": "that to crop to result now when we rotate this",
+      "showcase_frame_time": 331.06666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 93.1588005829904,
+        "contrast": 59.24946505550804,
+        "edge_density": 0.35733882030178327,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 336.275,
+      "title_hint": "want about level with that now we hit rotate and",
+      "showcase_frame_time": 337.96666666666664,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 92.16443758573388,
+        "contrast": 59.6207162856802,
+        "edge_density": 0.41941015089163236,
+        "nonblack": 0.9995070301783264
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 348.52,
+      "title_hint": "can come back over and then grab the crop tool",
+      "showcase_frame_time": 350.2,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 90.9576474622771,
+        "contrast": 58.347376379792856,
+        "edge_density": 0.4186599794238683,
+        "nonblack": 0.9995070301783264
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 356.995,
+      "title_hint": "and hit our enter key now we've got a nice",
+      "showcase_frame_time": 359.6666666666667,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 71.13355195473251,
+        "contrast": 49.197989263647244,
+        "edge_density": 0.3828446502057613,
+        "nonblack": 0.9995070301783264
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 363.475,
+      "title_hint": "of this corner detail and let's touch on the resize",
+      "showcase_frame_time": 365.1666666666667,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 76.20003858024691,
+        "contrast": 45.75595742353928,
+        "edge_density": 0.3410922496570645,
+        "nonblack": 0.9995070301783264
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 394.77,
+      "title_hint": "it also behaves the same where it has a preview",
+      "showcase_frame_time": 400.46666666666664,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 100.92292524005487,
+        "contrast": 49.12861243536515,
+        "edge_density": 0.4095078875171468,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 404.21,
+      "title_hint": "until we click scale and then it will just resize",
+      "showcase_frame_time": 411.56666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 70.36962019890261,
+        "contrast": 49.04067497705205,
+        "edge_density": 0.3920610425240055,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 412.625,
+      "title_hint": "scaling the image down and then keeping the size of",
+      "showcase_frame_time": 414.3,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 75.4426225994513,
+        "contrast": 45.766103985596835,
+        "edge_density": 0.37371399176954734,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 428.50998,
+      "title_hint": "just go to image and then go to scale image",
+      "showcase_frame_time": 430.2,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 75.21388460219478,
+        "contrast": 45.64136675023678,
+        "edge_density": 0.3667266803840878,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "start_time": 474.965,
+      "title_hint": "little bit and hit scale then it shrinks it down",
+      "showcase_frame_time": 482.6333333333333,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_29.png",
+      "screenshot_metrics": {
+        "brightness": 52.03247170781893,
+        "contrast": 33.23427984685929,
+        "edge_density": 0.23675411522633744,
+        "nonblack": 0.9995927640603567
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "start_time": 483.44,
+      "title_hint": "well hopefully you found that informative oh i wanna show",
+      "showcase_frame_time": 487.8,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_30.png",
+      "screenshot_metrics": {
+        "brightness": 62.805898491083674,
+        "contrast": 41.99275695901024,
+        "edge_density": 0.26989026063100136,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 31,
+      "start_time": 492.175,
+      "title_hint": "copy this selected image and then i could go paste",
+      "showcase_frame_time": 494.53333333333336,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_31.png",
+      "screenshot_metrics": {
+        "brightness": 62.53403635116598,
+        "contrast": 41.63288289603086,
+        "edge_density": 0.2605452674897119,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 32,
+      "start_time": 505.77,
+      "title_hint": "and looks like since this image is already gray scaled",
+      "showcase_frame_time": 507.46666666666664,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_32.png",
+      "screenshot_metrics": {
+        "brightness": 63.546724965706446,
+        "contrast": 39.21408459073397,
+        "edge_density": 0.30714163237311387,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 33,
+      "start_time": 512.01,
+      "title_hint": "that this image is so let's put on this one",
+      "showcase_frame_time": 513.7,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_33.png",
+      "screenshot_metrics": {
+        "brightness": 74.1496913580247,
+        "contrast": 44.98961656123818,
+        "edge_density": 0.363468792866941,
+        "nonblack": 0.9996141975308642
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 34,
+      "start_time": 519.47504,
+      "title_hint": "yeah image that we pasted on here and we can",
+      "showcase_frame_time": 521.1666666666666,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_34.png",
+      "screenshot_metrics": {
+        "brightness": 83.34846536351166,
+        "contrast": 62.56554221983675,
+        "edge_density": 0.3825445816186557,
+        "nonblack": 0.9994855967078189
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 35,
+      "start_time": 542.74,
+      "title_hint": "to catching you in the next video",
+      "showcase_frame_time": 544.4333333333333,
+      "screenshot": "screenshots/9_Gimp Lesson 9 \uff5c How to Rotate and Scale/step_35.png",
+      "screenshot_metrics": {
+        "brightness": 82.64911265432099,
+        "contrast": 61.656954910249375,
+        "edge_density": 0.4040209190672154,
+        "nonblack": 0.9994855967078189
+      },
+      "is_relevant": true
+    }
+  ]
+}
