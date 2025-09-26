@@ -1,0 +1,495 @@
+{
+  "video": "03_Gimp Lesson 3 \uff5c Changing and Selecting Color.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 100.26217013888889,
+        "contrast": 85.40271399952663,
+        "edge_density": 0.16783854166666667,
+        "nonblack": 0.9990451388888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 14.4,
+      "title_hint": "to pick a color and then we will be using",
+      "showcase_frame_time": 17.733333333333334,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 99.74887152777778,
+        "contrast": 85.1923859288747,
+        "edge_density": 0.1731640625,
+        "nonblack": 0.99765625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 21.525,
+      "title_hint": "going to file new and then just leave everything default",
+      "showcase_frame_time": 24.866666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 95.15642795138889,
+        "contrast": 82.46612291561624,
+        "edge_density": 0.19203559027777778,
+        "nonblack": 0.9956032986111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 58.88,
+      "title_hint": "and go add alpha channel now we could erase and",
+      "showcase_frame_time": 60.9,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 100.22977864583333,
+        "contrast": 85.18627124451893,
+        "edge_density": 0.17569444444444443,
+        "nonblack": 0.9990407986111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 67.84,
+      "title_hint": "i'm gonna remove it right now because we'll touch on",
+      "showcase_frame_time": 70.86666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 101.21794704861111,
+        "contrast": 85.63270780365053,
+        "edge_density": 0.1664626736111111,
+        "nonblack": 0.9990538194444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 82.875,
+      "title_hint": "just yet anyway okay so let's slow down a little",
+      "showcase_frame_time": 84.56666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 74.22674913194444,
+        "contrast": 61.00543694979431,
+        "edge_density": 0.2330078125,
+        "nonblack": 0.9960460069444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 105.755,
+      "title_hint": "the one we're using right now which is the black",
+      "showcase_frame_time": 107.43333333333334,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 77.63412760416666,
+        "contrast": 68.84070408776837,
+        "edge_density": 0.1794314236111111,
+        "nonblack": 0.9791666666666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 113.994995,
+      "title_hint": "we can hit okay and now everything we draw will",
+      "showcase_frame_time": 116.66666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 121.73075520833333,
+        "contrast": 96.91280963924592,
+        "edge_density": 0.11637586805555555,
+        "nonblack": 0.9829036458333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 163.985,
+      "title_hint": "that we want we can then select mixing white with",
+      "showcase_frame_time": 165.66666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 78.96237413194444,
+        "contrast": 67.82976773303639,
+        "edge_density": 0.1857204861111111,
+        "nonblack": 0.9941059027777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 175.01,
+      "title_hint": "color shows the old and now we're going to be",
+      "showcase_frame_time": 176.7,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 79.00069878472222,
+        "contrast": 68.27807969653529,
+        "edge_density": 0.18270399305555557,
+        "nonblack": 0.9940364583333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 186.605,
+      "title_hint": "of this blue white color now another tool we haven't",
+      "showcase_frame_time": 188.3,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 120.44962673611111,
+        "contrast": 96.14079468035617,
+        "edge_density": 0.1258767361111111,
+        "nonblack": 0.9827777777777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 203.81,
+      "title_hint": "left click on it and now we can click and",
+      "showcase_frame_time": 205.5,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 120.19499565972222,
+        "contrast": 96.44172698191997,
+        "edge_density": 0.11939236111111111,
+        "nonblack": 0.9826953125
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 217.765,
+      "title_hint": "can fill in these eyes now so it fills in",
+      "showcase_frame_time": 219.43333333333334,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 118.15424479166667,
+        "contrast": 94.59276830806431,
+        "edge_density": 0.11700086805555555,
+        "nonblack": 0.9828515625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 226.325,
+      "title_hint": "grab the eraser tool right now and we start to",
+      "showcase_frame_time": 228.0,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 118.58173611111111,
+        "contrast": 94.36149546373555,
+        "edge_density": 0.1258159722222222,
+        "nonblack": 0.9828385416666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 235.52,
+      "title_hint": "is a white square right now so if we erase",
+      "showcase_frame_time": 237.2,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 118.51924913194445,
+        "contrast": 94.3650557359781,
+        "edge_density": 0.12469618055555555,
+        "nonblack": 0.9828862847222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 248.745,
+      "title_hint": "red and hit okay so now when we erase it'll",
+      "showcase_frame_time": 251.76666666666668,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 118.39494791666667,
+        "contrast": 94.32052707996877,
+        "edge_density": 0.12640625,
+        "nonblack": 0.9830772569444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 257.29,
+      "title_hint": "if we click this button now the foreground color is",
+      "showcase_frame_time": 258.96666666666664,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 118.29938802083333,
+        "contrast": 94.15739679469299,
+        "edge_density": 0.12677517361111112,
+        "nonblack": 0.9828993055555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 265.85,
+      "title_hint": "this purple this darker purple now when we have our",
+      "showcase_frame_time": 267.53333333333336,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 118.06061631944445,
+        "contrast": 94.19054627696711,
+        "edge_density": 0.12725260416666667,
+        "nonblack": 0.9828602430555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 273.695,
+      "title_hint": "that too we can draw let's change the color of",
+      "showcase_frame_time": 281.3666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 117.51245659722223,
+        "contrast": 93.82608329954516,
+        "edge_density": 0.1357248263888889,
+        "nonblack": 0.9833072916666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 279.295,
+      "title_hint": "more of a green so now we have a green",
+      "showcase_frame_time": 282.96666666666664,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 117.09157118055556,
+        "contrast": 93.57850643419675,
+        "edge_density": 0.13805555555555554,
+        "nonblack": 0.9830729166666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 285.12,
+      "title_hint": "we can left click and now we have the purple",
+      "showcase_frame_time": 286.8,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 117.06200086805555,
+        "contrast": 93.62014250206865,
+        "edge_density": 0.13610243055555554,
+        "nonblack": 0.9827821180555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 304.775,
+      "title_hint": "x will toggle that okay let's go back into the",
+      "showcase_frame_time": 306.46666666666664,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 102.8599609375,
+        "contrast": 90.81846420346609,
+        "edge_density": 0.15951822916666666,
+        "nonblack": 0.9820703125
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 309.81497,
+      "title_hint": "colors now because i wanna show you some different options",
+      "showcase_frame_time": 314.5,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 79.73653211805555,
+        "contrast": 66.92799696876915,
+        "edge_density": 0.19075520833333334,
+        "nonblack": 0.99421875
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 362.005,
+      "title_hint": "we can hit okay and now we've got a nice",
+      "showcase_frame_time": 364.3666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 114.95348090277778,
+        "contrast": 92.229340491147,
+        "edge_density": 0.1582595486111111,
+        "nonblack": 0.9835850694444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 379.59,
+      "title_hint": "is just a cyan color now okay let's go back",
+      "showcase_frame_time": 381.26666666666665,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 114.44657552083333,
+        "contrast": 91.72997753062774,
+        "edge_density": 0.16491753472222223,
+        "nonblack": 0.9837890625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 396.93002,
+      "title_hint": "is this color wheel this next one the color wheel",
+      "showcase_frame_time": 398.6,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 76.86932291666666,
+        "contrast": 67.01445563292796,
+        "edge_density": 0.19322048611111112,
+        "nonblack": 0.9908897569444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 403.73,
+      "title_hint": "in the other corner and then full color saturation in",
+      "showcase_frame_time": 407.06666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 78.99338975694444,
+        "contrast": 66.81710724073562,
+        "edge_density": 0.1953298611111111,
+        "nonblack": 0.9979296875
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 410.61002,
+      "title_hint": "create a nice color and then if you want to",
+      "showcase_frame_time": 412.3,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 79.58913628472222,
+        "contrast": 66.68109685650526,
+        "edge_density": 0.19806423611111112,
+        "nonblack": 0.9980078125
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "start_time": 419.355,
+      "title_hint": "find a nice hue and then a mix between either",
+      "showcase_frame_time": 421.03333333333336,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_29.png",
+      "screenshot_metrics": {
+        "brightness": 79.90730034722222,
+        "contrast": 66.79764672623777,
+        "edge_density": 0.19766493055555556,
+        "nonblack": 0.9980381944444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "start_time": 495.195,
+      "title_hint": "it's just personal preference but then that way when you",
+      "showcase_frame_time": 496.8666666666667,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_30.png",
+      "screenshot_metrics": {
+        "brightness": 76.7264453125,
+        "contrast": 65.58470137248221,
+        "edge_density": 0.18448350694444443,
+        "nonblack": 0.9979644097222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 31,
+      "start_time": 510.36,
+      "title_hint": "anyway that's kind of the different toggles we have there",
+      "showcase_frame_time": 512.0333333333333,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_31.png",
+      "screenshot_metrics": {
+        "brightness": 78.6618185763889,
+        "contrast": 66.47329811001809,
+        "edge_density": 0.1890234375,
+        "nonblack": 0.9980772569444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 32,
+      "start_time": 519.56,
+      "title_hint": "image like this black and then we can choose that",
+      "showcase_frame_time": 522.2333333333333,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_32.png",
+      "screenshot_metrics": {
+        "brightness": 75.41374565972222,
+        "contrast": 66.41169522993509,
+        "edge_density": 0.18362413194444444,
+        "nonblack": 0.9857508680555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 33,
+      "start_time": 552.5,
+      "title_hint": "start using that color so now we have this red",
+      "showcase_frame_time": 554.1666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_33.png",
+      "screenshot_metrics": {
+        "brightness": 109.65278211805555,
+        "contrast": 89.71413691545783,
+        "edge_density": 0.18206597222222223,
+        "nonblack": 0.9837847222222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 34,
+      "start_time": 557.505,
+      "title_hint": "pick this blue color and then we can draw in",
+      "showcase_frame_time": 559.2,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_34.png",
+      "screenshot_metrics": {
+        "brightness": 108.35309895833333,
+        "contrast": 89.71199355793802,
+        "edge_density": 0.16826388888888888,
+        "nonblack": 0.9839279513888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 35,
+      "start_time": 570.0,
+      "title_hint": "i'll catch you in the next video",
+      "showcase_frame_time": 571.6666666666666,
+      "screenshot": "screenshots/03_Gimp Lesson 3 \uff5c Changing and Selecting Color/step_35.png",
+      "screenshot_metrics": {
+        "brightness": 113.22504340277777,
+        "contrast": 90.6038160944865,
+        "edge_density": 0.17833333333333334,
+        "nonblack": 0.9845963541666667
+      },
+      "is_relevant": true
+    }
+  ]
+}

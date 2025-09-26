@@ -1,0 +1,397 @@
+{
+  "video": "07_Gimp Lesson 7 \uff5c Intro to Layers.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 130.9959375,
+        "contrast": 97.58450384913684,
+        "edge_density": 0.16501736111111112,
+        "nonblack": 0.9991059027777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 17.545,
+      "title_hint": "or duplicate a layer and then the way that we",
+      "showcase_frame_time": 23.9,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 130.9690451388889,
+        "contrast": 97.59620919247335,
+        "edge_density": 0.16755208333333332,
+        "nonblack": 0.9990798611111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 22.665,
+      "title_hint": "hand side and right now we see we have one",
+      "showcase_frame_time": 26.0,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 144.72830729166665,
+        "contrast": 100.1490471837962,
+        "edge_density": 0.10118055555555555,
+        "nonblack": 0.9986762152777777
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 41.945004,
+      "title_hint": "a regular jpeg image and now we see the name",
+      "showcase_frame_time": 43.63333333333333,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 91.72458333333333,
+        "contrast": 66.28543520235255,
+        "edge_density": 0.2975260416666667,
+        "nonblack": 0.9991059027777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 56.56,
+      "title_hint": "layers are nice is because let's say we wanted to",
+      "showcase_frame_time": 58.233333333333334,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 91.76280381944444,
+        "contrast": 66.29023199358708,
+        "edge_density": 0.2987239583333333,
+        "nonblack": 0.9991102430555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 65.76,
+      "title_hint": "we draw the circle and then later on we get",
+      "showcase_frame_time": 67.43333333333334,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 89.70430989583333,
+        "contrast": 66.09053884766561,
+        "edge_density": 0.3226041666666667,
+        "nonblack": 0.9842057291666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 84.725,
+      "title_hint": "black they're all just black now so if we want",
+      "showcase_frame_time": 88.06666666666666,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 88.93490017361111,
+        "contrast": 66.17549015500875,
+        "edge_density": 0.2906814236111111,
+        "nonblack": 0.9844791666666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 114.375,
+      "title_hint": "same and hit okay so now i have this circle",
+      "showcase_frame_time": 118.06666666666666,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 91.36029513888889,
+        "contrast": 66.36754918619745,
+        "edge_density": 0.2880729166666667,
+        "nonblack": 0.9990928819444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 128.11,
+      "title_hint": "on this circle layer and now i'm gonna go into",
+      "showcase_frame_time": 132.46666666666667,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 91.89964409722222,
+        "contrast": 66.25644306886103,
+        "edge_density": 0.31494357638888887,
+        "nonblack": 0.9974696180555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 133.125,
+      "title_hint": "last time and now if i want to move it'll",
+      "showcase_frame_time": 134.8,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 90.43283420138889,
+        "contrast": 66.1135949853016,
+        "edge_density": 0.31958333333333333,
+        "nonblack": 0.9884288194444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 162.83499,
+      "title_hint": "if we go to move now it's going to move",
+      "showcase_frame_time": 164.53333333333333,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 88.23088107638888,
+        "contrast": 66.26977906007852,
+        "edge_density": 0.3061892361111111,
+        "nonblack": 0.9790147569444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 178.09999,
+      "title_hint": "move the entire image around now keeping these everything else",
+      "showcase_frame_time": 182.43333333333334,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 86.73418402777777,
+        "contrast": 60.92491317182087,
+        "edge_density": 0.36932291666666667,
+        "nonblack": 0.9791232638888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 183.22,
+      "title_hint": "the other layer intact now if i'm gonna drag it",
+      "showcase_frame_time": 187.9,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 87.72407118055555,
+        "contrast": 64.83561164127097,
+        "edge_density": 0.3250998263888889,
+        "nonblack": 0.9794965277777777
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 193.91501,
+      "title_hint": "is actually rendered out and let's just do it right",
+      "showcase_frame_time": 196.26666666666668,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 87.62823350694444,
+        "contrast": 64.4049545782252,
+        "edge_density": 0.3281206597222222,
+        "nonblack": 0.9800520833333334
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 208.09,
+      "title_hint": "this image looks like this now it has white up",
+      "showcase_frame_time": 212.1,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 105.481171875,
+        "contrast": 74.64439610218601,
+        "edge_density": 0.4272960069444444,
+        "nonblack": 0.9684765625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 216.845,
+      "title_hint": "has both these layers but now everything is all just",
+      "showcase_frame_time": 218.53333333333333,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 105.593671875,
+        "contrast": 74.79601665546286,
+        "edge_density": 0.4389105902777778,
+        "nonblack": 0.9690190972222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 241.975,
+      "title_hint": "want to just draw and then turn this on it's",
+      "showcase_frame_time": 243.66666666666666,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 81.1614236111111,
+        "contrast": 46.8007337763107,
+        "edge_density": 0.4947482638888889,
+        "nonblack": 0.9791927083333334
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 262.84,
+      "title_hint": "whatever we want to and now we have this different",
+      "showcase_frame_time": 269.2,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 87.60148871527778,
+        "contrast": 64.77702979397527,
+        "edge_density": 0.3173611111111111,
+        "nonblack": 0.9788454861111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 309.925,
+      "title_hint": "but what i wanna show with that is if we",
+      "showcase_frame_time": 313.93333333333334,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 95.09184895833333,
+        "contrast": 68.36009436263859,
+        "edge_density": 0.3127734375,
+        "nonblack": 0.9751171875
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 317.94,
+      "title_hint": "is not throwing us off let's fill it with red",
+      "showcase_frame_time": 323.6333333333333,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 61.58859375,
+        "contrast": 28.023144702097284,
+        "edge_density": 0.15599826388888888,
+        "nonblack": 0.9776909722222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 324.82,
+      "title_hint": "but the picture's gone right now this guy image is",
+      "showcase_frame_time": 328.5,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 59.52433159722222,
+        "contrast": 23.389884743636486,
+        "edge_density": 0.10006076388888889,
+        "nonblack": 0.9804210069444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 341.995,
+      "title_hint": "we drag this on top then we just see the",
+      "showcase_frame_time": 345.0,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 88.25767795138889,
+        "contrast": 64.18339983786291,
+        "edge_density": 0.3056467013888889,
+        "nonblack": 0.9962456597222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 348.46002,
+      "title_hint": "those black arrows on top let's say we grab this",
+      "showcase_frame_time": 352.8,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 100.13697916666666,
+        "contrast": 69.26260405183473,
+        "edge_density": 0.2608984375,
+        "nonblack": 0.9954470486111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 353.5,
+      "title_hint": "it on top well now we only see red so",
+      "showcase_frame_time": 360.5,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 66.60321180555556,
+        "contrast": 39.586347123385785,
+        "edge_density": 0.17884982638888888,
+        "nonblack": 0.9999348958333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 358.7,
+      "title_hint": "first and then if there's any gaps or transparency like",
+      "showcase_frame_time": 360.7,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 66.58569010416667,
+        "contrast": 39.59015063115717,
+        "edge_density": 0.17899739583333332,
+        "nonblack": 0.9999392361111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 373.08002,
+      "title_hint": "something's in its way and then it appears there this",
+      "showcase_frame_time": 379.76666666666665,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 82.94611979166666,
+        "contrast": 61.49830434411121,
+        "edge_density": 0.3104253472222222,
+        "nonblack": 0.9798871527777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 381.24,
+      "title_hint": "and play with these for now toggling viewing it and",
+      "showcase_frame_time": 385.93333333333334,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 85.96092447916666,
+        "contrast": 64.19957182554133,
+        "edge_density": 0.30637152777777776,
+        "nonblack": 0.9803949652777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 441.65552,
+      "title_hint": "watching catch you in the next video",
+      "showcase_frame_time": 443.3333333333333,
+      "screenshot": "screenshots/07_Gimp Lesson 7 \uff5c Intro to Layers/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 87.36495659722222,
+        "contrast": 64.99667680672802,
+        "edge_density": 0.3209418402777778,
+        "nonblack": 0.9794401041666667
+      },
+      "is_relevant": true
+    }
+  ]
+}

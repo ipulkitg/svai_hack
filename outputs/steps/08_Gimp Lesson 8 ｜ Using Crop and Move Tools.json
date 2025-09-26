@@ -1,0 +1,327 @@
+{
+  "video": "08_Gimp Lesson 8 \uff5c Using Crop and Move Tools.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 83.8635546875,
+        "contrast": 58.85704290791542,
+        "edge_density": 0.2770876736111111,
+        "nonblack": 0.9989149305555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 12.4,
+      "title_hint": "certain area like this and then it selects that we",
+      "showcase_frame_time": 17.4,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 55.93365451388889,
+        "contrast": 41.8278997053711,
+        "edge_density": 0.19080729166666666,
+        "nonblack": 0.9986241319444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 17.755,
+      "title_hint": "of our image away and then move as you know",
+      "showcase_frame_time": 20.766666666666666,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 74.35977864583333,
+        "contrast": 58.558550422249766,
+        "edge_density": 0.26990885416666666,
+        "nonblack": 0.9886979166666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 28.314999,
+      "title_hint": "where it was originally so let's slow down and go",
+      "showcase_frame_time": 31.333333333333332,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 83.12856336805555,
+        "contrast": 58.6056867776129,
+        "edge_density": 0.29046875,
+        "nonblack": 0.9988975694444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 48.805,
+      "title_hint": "find your crop tool and then to use it we",
+      "showcase_frame_time": 50.5,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 82.63764756944444,
+        "contrast": 57.90961222943297,
+        "edge_density": 0.23094618055555555,
+        "nonblack": 0.9987543402777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 62.9,
+      "title_hint": "going to be remaining and then we hit the enter",
+      "showcase_frame_time": 64.56666666666666,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 65.90278645833334,
+        "contrast": 39.326323009808085,
+        "edge_density": 0.161640625,
+        "nonblack": 0.9999131944444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 102.885,
+      "title_hint": "down the control key right now rather than having a",
+      "showcase_frame_time": 108.9,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 111.90620659722222,
+        "contrast": 66.62778498728203,
+        "edge_density": 0.2347612847222222,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 128.165,
+      "title_hint": "the move tool we've used in the past when the",
+      "showcase_frame_time": 130.16666666666666,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 59.79766927083333,
+        "contrast": 37.70808200586125,
+        "edge_density": 0.1653125,
+        "nonblack": 0.9989539930555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 139.7,
+      "title_hint": "this move by layer and then right now it's just",
+      "showcase_frame_time": 141.36666666666667,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 62.95783420138889,
+        "contrast": 37.290765082168576,
+        "edge_density": 0.16945746527777777,
+        "nonblack": 0.998515625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 145.62,
+      "title_hint": "only have one layer right now but to illustrate this",
+      "showcase_frame_time": 147.3,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 59.84820746527778,
+        "contrast": 37.6527956783352,
+        "edge_density": 0.17125434027777778,
+        "nonblack": 0.9989453125
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 155.05501,
+      "title_hint": "this image right here so now i have two different",
+      "showcase_frame_time": 158.4,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 87.00049045138888,
+        "contrast": 54.1869549722918,
+        "edge_density": 0.25489149305555553,
+        "nonblack": 0.9978342013888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 173.95001,
+      "title_hint": "on the keyboard and that's now copied to the clipboard",
+      "showcase_frame_time": 177.3,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 55.488667534722225,
+        "contrast": 41.421554059118215,
+        "edge_density": 0.18016927083333334,
+        "nonblack": 0.9983072916666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 186.575,
+      "title_hint": "will paste this image well now i can click on",
+      "showcase_frame_time": 188.26666666666668,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 83.05612847222223,
+        "contrast": 52.374439143882704,
+        "edge_density": 0.27198350694444445,
+        "nonblack": 0.9976779513888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 200.28,
+      "title_hint": "like there's two layers right now we can do two",
+      "showcase_frame_time": 207.96666666666667,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 84.06814670138888,
+        "contrast": 53.803339370166015,
+        "edge_density": 0.2897135416666667,
+        "nonblack": 0.9979427083333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 211.915,
+      "title_hint": "and go to anchor layer now it's anchored in there",
+      "showcase_frame_time": 213.6,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 81.1329296875,
+        "contrast": 50.85057280087755,
+        "edge_density": 0.2900434027777778,
+        "nonblack": 0.9977170138888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 235.475,
+      "title_hint": "on its own new layer now we have two layers",
+      "showcase_frame_time": 237.5,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 92.37696180555555,
+        "contrast": 59.51535363416679,
+        "edge_density": 0.20549913194444444,
+        "nonblack": 0.9979774305555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 240.835,
+      "title_hint": "each one individually and this lets us be able to",
+      "showcase_frame_time": 248.2,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 83.46401475694445,
+        "contrast": 52.69709422524647,
+        "edge_density": 0.29946180555555557,
+        "nonblack": 0.9977083333333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 251.72,
+      "title_hint": "do the crop tool right now and we wanna crop",
+      "showcase_frame_time": 253.4,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 83.46310763888889,
+        "contrast": 52.70411373158142,
+        "edge_density": 0.29868489583333335,
+        "nonblack": 0.9977517361111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 268.755,
+      "title_hint": "if i check that and then draw my crop selection",
+      "showcase_frame_time": 272.76666666666665,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 109.57186631944444,
+        "contrast": 53.21281296552882,
+        "edge_density": 0.27455729166666665,
+        "nonblack": 0.9970833333333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 281.17,
+      "title_hint": "we didn't have that selected then it would treat everything",
+      "showcase_frame_time": 282.8666666666667,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 84.10950086805556,
+        "contrast": 52.595793409609136,
+        "edge_density": 0.29325520833333335,
+        "nonblack": 0.9978255208333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 291.935,
+      "title_hint": "this we could draw and then we could fine tune",
+      "showcase_frame_time": 295.6333333333333,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 58.5662109375,
+        "contrast": 23.854018372187195,
+        "edge_density": 0.1924956597222222,
+        "nonblack": 0.9891362847222223
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 372.735,
+      "title_hint": "and play with move and next videos we're going to",
+      "showcase_frame_time": 374.43333333333334,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 84.63078125,
+        "contrast": 54.15824458961477,
+        "edge_density": 0.3071657986111111,
+        "nonblack": 0.9976128472222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 386.81,
+      "title_hint": "i'll catch you in the next video",
+      "showcase_frame_time": 390.1666666666667,
+      "screenshot": "screenshots/08_Gimp Lesson 8 \uff5c Using Crop and Move Tools/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 122.38444878472222,
+        "contrast": 67.03055881151009,
+        "edge_density": 0.28710069444444447,
+        "nonblack": 1.0
+      },
+      "is_relevant": true
+    }
+  ]
+}

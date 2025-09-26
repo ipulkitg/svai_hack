@@ -1,0 +1,215 @@
+{
+  "video": "04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 56.64093315972222,
+        "contrast": 32.62276996950718,
+        "edge_density": 0.13989583333333333,
+        "nonblack": 0.9990625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 12.24,
+      "title_hint": "these tools and we're going to be working with an",
+      "showcase_frame_time": 13.933333333333334,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 56.30790798611111,
+        "contrast": 32.62315650334182,
+        "edge_density": 0.14259982638888888,
+        "nonblack": 0.9990234375
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 50.865,
+      "title_hint": "don't worry about that for now it's just how gimp",
+      "showcase_frame_time": 52.53333333333333,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 73.12189670138889,
+        "contrast": 44.02696860992036,
+        "edge_density": 0.3234461805555556,
+        "nonblack": 0.9990364583333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 68.745,
+      "title_hint": "it's very very small right now so i may bring",
+      "showcase_frame_time": 70.43333333333334,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 73.1479296875,
+        "contrast": 44.015716155905935,
+        "edge_density": 0.32501302083333333,
+        "nonblack": 0.9990364583333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 135.875,
+      "title_hint": "can adjust the angle so now we have this an",
+      "showcase_frame_time": 137.56666666666666,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 78.4032248263889,
+        "contrast": 41.09846388277919,
+        "edge_density": 0.32784722222222223,
+        "nonblack": 0.9992100694444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 142.39,
+      "title_hint": "so we can play with those and we've learned in",
+      "showcase_frame_time": 144.06666666666666,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 75.4451171875,
+        "contrast": 41.078301648791594,
+        "edge_density": 0.3135807291666667,
+        "nonblack": 0.9989236111111112
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 150.79,
+      "title_hint": "to the brush itself and then but these are all",
+      "showcase_frame_time": 152.46666666666667,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 75.55015625,
+        "contrast": 41.61125943099919,
+        "edge_density": 0.3126215277777778,
+        "nonblack": 0.9989192708333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 202.47,
+      "title_hint": "it to to different things let's look at the dodge",
+      "showcase_frame_time": 204.16666666666666,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 76.91061631944444,
+        "contrast": 38.95197492856336,
+        "edge_density": 0.30453125,
+        "nonblack": 0.9989236111111112
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 247.125,
+      "title_hint": "of the image so right now we have it set",
+      "showcase_frame_time": 248.8,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 85.71493489583334,
+        "contrast": 62.763929611538984,
+        "edge_density": 0.3126215277777778,
+        "nonblack": 0.9990451388888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 268.905,
+      "title_hint": "burn is gonna be the opposite so if we select",
+      "showcase_frame_time": 272.26666666666665,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 91.376171875,
+        "contrast": 59.51725769447428,
+        "edge_density": 0.2977473958333333,
+        "nonblack": 0.9989973958333334
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 290.205,
+      "title_hint": "so that's dodge and burn and there's different options right",
+      "showcase_frame_time": 291.9,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 90.71094618055555,
+        "contrast": 59.576910041074164,
+        "edge_density": 0.2927604166666667,
+        "nonblack": 0.9989973958333334
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 311.09,
+      "title_hint": "some sort of oh and then i need to change",
+      "showcase_frame_time": 314.43333333333334,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 86.6054296875,
+        "contrast": 63.85884604277097,
+        "edge_density": 0.30072482638888887,
+        "nonblack": 0.9970052083333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 343.395,
+      "title_hint": "and yeah that's really what we're gonna cover today so",
+      "showcase_frame_time": 345.06666666666666,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 91.58733072916667,
+        "contrast": 59.264756675113496,
+        "edge_density": 0.2990668402777778,
+        "nonblack": 0.9989756944444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 357.38998,
+      "title_hint": "all these brush settings and then down below it kind",
+      "showcase_frame_time": 359.06666666666666,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 103.33341145833333,
+        "contrast": 70.20414459557693,
+        "edge_density": 0.28293836805555556,
+        "nonblack": 0.9989279513888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 368.43,
+      "title_hint": "play with those and the next video we'll look at",
+      "showcase_frame_time": 370.76666666666665,
+      "screenshot": "screenshots/04_Gimp Lesson 4 \uff5c Dodge & Burn and Smudge Tool/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 85.98641493055555,
+        "contrast": 62.74976349690977,
+        "edge_density": 0.3130251736111111,
+        "nonblack": 0.9990538194444445
+      },
+      "is_relevant": true
+    }
+  ]
+}

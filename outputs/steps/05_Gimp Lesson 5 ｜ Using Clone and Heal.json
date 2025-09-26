@@ -1,0 +1,439 @@
+{
+  "video": "05_Gimp Lesson 5 \uff5c Using Clone and Heal.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 56.55409288194444,
+        "contrast": 32.60280400776069,
+        "edge_density": 0.1427517361111111,
+        "nonblack": 0.9990581597222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 4.4,
+      "title_hint": "in this video we're going to be looking at the",
+      "showcase_frame_time": 6.066666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 56.36105902777778,
+        "contrast": 32.65468810868789,
+        "edge_density": 0.1417144097222222,
+        "nonblack": 0.9990407986111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 25.244999,
+      "title_hint": "hold and select all three then left click and drag",
+      "showcase_frame_time": 26.933333333333334,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 56.47998263888889,
+        "contrast": 32.95674706991353,
+        "edge_density": 0.16286024305555555,
+        "nonblack": 0.9990277777777777
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 38.46,
+      "title_hint": "up here and so the first one i wanna show",
+      "showcase_frame_time": 41.8,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 90.62157118055555,
+        "contrast": 63.00561244535859,
+        "edge_density": 0.3953776041666667,
+        "nonblack": 0.9977300347222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 45.595,
+      "title_hint": "of just me standing in the snow and if i",
+      "showcase_frame_time": 47.266666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 88.08998263888888,
+        "contrast": 54.08223758519909,
+        "edge_density": 0.27934895833333334,
+        "nonblack": 0.9979513888888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 72.825005,
+      "title_hint": "good enough right there and then to use this tool",
+      "showcase_frame_time": 74.5,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 88.10471354166667,
+        "contrast": 54.125785441483664,
+        "edge_density": 0.28106336805555554,
+        "nonblack": 0.9979079861111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 78.425,
+      "title_hint": "down the control key and then left click once so",
+      "showcase_frame_time": 80.1,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 88.08327690972222,
+        "contrast": 54.15494188672829,
+        "edge_density": 0.28022569444444445,
+        "nonblack": 0.9977430555555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 86.48,
+      "title_hint": "circle around my foot and now i can click anywhere",
+      "showcase_frame_time": 88.16666666666667,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 88.08383680555555,
+        "contrast": 54.12391151588107,
+        "edge_density": 0.2822048611111111,
+        "nonblack": 0.9977821180555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 104.415,
+      "title_hint": "hold the control key and then left click to choose",
+      "showcase_frame_time": 106.1,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 88.08301649305555,
+        "contrast": 54.145759712962054,
+        "edge_density": 0.2805685763888889,
+        "nonblack": 0.9977083333333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 110.095,
+      "title_hint": "and and then if i left click and hold right",
+      "showcase_frame_time": 111.76666666666667,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 88.00125868055555,
+        "contrast": 54.05158069059437,
+        "edge_density": 0.28253038194444446,
+        "nonblack": 0.9977517361111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 131.655,
+      "title_hint": "part of the image and then over here i'm just",
+      "showcase_frame_time": 133.33333333333334,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 84.35519965277778,
+        "contrast": 52.15149336586633,
+        "edge_density": 0.3007769097222222,
+        "nonblack": 0.9977387152777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 137.94,
+      "title_hint": "feather on this tool right now which means that the",
+      "showcase_frame_time": 139.63333333333333,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 83.69114583333334,
+        "contrast": 51.99460116277415,
+        "edge_density": 0.3057552083333333,
+        "nonblack": 0.9976345486111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 157.22499,
+      "title_hint": "unclick the mouse button and then i i try to",
+      "showcase_frame_time": 158.9,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 82.40470486111111,
+        "contrast": 51.508212907860674,
+        "edge_density": 0.31073350694444446,
+        "nonblack": 0.9967795138888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 187.285,
+      "title_hint": "select one person's face and then go over to the",
+      "showcase_frame_time": 188.96666666666667,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 90.88780381944444,
+        "contrast": 53.411001459883,
+        "edge_density": 0.2837543402777778,
+        "nonblack": 0.9963107638888888
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 206.375,
+      "title_hint": "on the clone tool and then we could clone myself",
+      "showcase_frame_time": 208.4,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 93.77151475694444,
+        "contrast": 64.00646325774093,
+        "edge_density": 0.46651475694444444,
+        "nonblack": 0.9963671875
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 214.21501,
+      "title_hint": "so if i zoom in now it's kinda hard to",
+      "showcase_frame_time": 219.56666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 160.11222222222221,
+        "contrast": 62.62444792054773,
+        "edge_density": 0.7393012152777778,
+        "nonblack": 0.9999479166666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 233.5,
+      "title_hint": "the healing tool is right next to the clone tool",
+      "showcase_frame_time": 236.16666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 113.58399739583334,
+        "contrast": 68.85380554615331,
+        "edge_density": 0.5258723958333333,
+        "nonblack": 0.9971310763888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 258.76,
+      "title_hint": "area right here control and then left click and that",
+      "showcase_frame_time": 260.43333333333334,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 102.84620225694445,
+        "contrast": 66.36445633120319,
+        "edge_density": 0.5808116319444444,
+        "nonblack": 0.9971397569444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 265.825,
+      "title_hint": "i'm going to use and now it behaves the same",
+      "showcase_frame_time": 267.5,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 103.00733940972222,
+        "contrast": 66.29449110723897,
+        "edge_density": 0.5848480902777777,
+        "nonblack": 0.9972569444444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 270.865,
+      "title_hint": "then i can come and just sort of paint this",
+      "showcase_frame_time": 272.53333333333336,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 103.56512586805556,
+        "contrast": 65.74009248820252,
+        "edge_density": 0.5906467013888889,
+        "nonblack": 0.9991753472222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 283.78,
+      "title_hint": "too far it's going to start cloning over my mouth",
+      "showcase_frame_time": 285.46666666666664,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 107.24762152777778,
+        "contrast": 67.02260924936353,
+        "edge_density": 0.6233203125,
+        "nonblack": 0.9991927083333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 298.375,
+      "title_hint": "start cloning down here and then move up i'm gonna",
+      "showcase_frame_time": 300.06666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 107.7170703125,
+        "contrast": 65.91028742251333,
+        "edge_density": 0.6016796875,
+        "nonblack": 0.9992274305555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 311.03,
+      "title_hint": "is take a pattern and then it uses a lot",
+      "showcase_frame_time": 312.7,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 100.12819010416666,
+        "contrast": 65.94294675059162,
+        "edge_density": 0.6121788194444444,
+        "nonblack": 0.9991102430555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 349.265,
+      "title_hint": "again for this one and then we can just kind",
+      "showcase_frame_time": 350.93333333333334,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 120.43633680555556,
+        "contrast": 74.75494026863454,
+        "edge_density": 0.337578125,
+        "nonblack": 0.9989236111111112
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 369.72498,
+      "title_hint": "to select the point and then you know make sure",
+      "showcase_frame_time": 371.4,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 120.05562934027778,
+        "contrast": 74.26397291827085,
+        "edge_density": 0.33350694444444445,
+        "nonblack": 0.9989236111111112
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 402.435,
+      "title_hint": "down a little bit and then we can grab our",
+      "showcase_frame_time": 408.46666666666664,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 95.61687065972222,
+        "contrast": 44.23210261803959,
+        "edge_density": 0.5735980902777778,
+        "nonblack": 0.9988932291666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 412.88,
+      "title_hint": "area our source target and then as i left click",
+      "showcase_frame_time": 414.56666666666666,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 95.49733506944445,
+        "contrast": 44.30803762026994,
+        "edge_density": 0.581328125,
+        "nonblack": 0.9988454861111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 435.795,
+      "title_hint": "image mode and go to rgb it's on indexed right",
+      "showcase_frame_time": 437.46666666666664,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 87.68048177083334,
+        "contrast": 41.43199828497236,
+        "edge_density": 0.6013802083333334,
+        "nonblack": 0.9990451388888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "start_time": 445.79,
+      "title_hint": "it's an indexed mode anyway now i can change this",
+      "showcase_frame_time": 448.46666666666664,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_29.png",
+      "screenshot_metrics": {
+        "brightness": 90.0540625,
+        "contrast": 41.12044504692532,
+        "edge_density": 0.6355425347222222,
+        "nonblack": 0.9990451388888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "start_time": 460.115,
+      "title_hint": "gimp i'll show you that now this is repairing an",
+      "showcase_frame_time": 464.1333333333333,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_30.png",
+      "screenshot_metrics": {
+        "brightness": 147.38131510416667,
+        "contrast": 71.32716619811721,
+        "edge_density": 0.5174392361111111,
+        "nonblack": 0.9006119791666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 31,
+      "start_time": 502.83264,
+      "title_hint": "to catching you in the next video",
+      "showcase_frame_time": 504.5,
+      "screenshot": "screenshots/05_Gimp Lesson 5 \uff5c Using Clone and Heal/step_31.png",
+      "screenshot_metrics": {
+        "brightness": 82.21743055555555,
+        "contrast": 51.47597115060536,
+        "edge_density": 0.3084852430555556,
+        "nonblack": 0.9969661458333333
+      },
+      "is_relevant": true
+    }
+  ]
+}

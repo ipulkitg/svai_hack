@@ -1,0 +1,565 @@
+{
+  "video": "06_Gimp Lesson 6  \uff5c Using Selection Tools.mp4",
+  "steps": [
+    {
+      "index": 1,
+      "start_time": 0.0,
+      "title_hint": "welcome to another gimp tutorial in this video",
+      "showcase_frame_time": 4.666666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_01.png",
+      "screenshot_metrics": {
+        "brightness": 50.02138454861111,
+        "contrast": 37.05965569224126,
+        "edge_density": 0.2199435763888889,
+        "nonblack": 0.9261501736111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 2,
+      "start_time": 12.48,
+      "title_hint": "custom selection that we can then apply changes to so",
+      "showcase_frame_time": 14.166666666666666,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_02.png",
+      "screenshot_metrics": {
+        "brightness": 50.132907986111114,
+        "contrast": 37.0938584134221,
+        "edge_density": 0.23211805555555556,
+        "nonblack": 0.9267925347222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 3,
+      "start_time": 38.82,
+      "title_hint": "also what you'll do a lot is you'll do a",
+      "showcase_frame_time": 40.5,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_03.png",
+      "screenshot_metrics": {
+        "brightness": 50.01181857638889,
+        "contrast": 37.069415741437446,
+        "edge_density": 0.22899739583333334,
+        "nonblack": 0.9265277777777777
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 4,
+      "start_time": 50.875,
+      "title_hint": "to crop a selection and then you'll just have this",
+      "showcase_frame_time": 52.56666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_04.png",
+      "screenshot_metrics": {
+        "brightness": 55.95453125,
+        "contrast": 31.498022401916955,
+        "edge_density": 0.16690538194444443,
+        "nonblack": 0.9974175347222223
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 5,
+      "start_time": 57.835,
+      "title_hint": "undo all of this and let's start from the very",
+      "showcase_frame_time": 59.53333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_05.png",
+      "screenshot_metrics": {
+        "brightness": 46.99950954861111,
+        "contrast": 39.94631569719905,
+        "edge_density": 0.23403211805555554,
+        "nonblack": 0.9121614583333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 6,
+      "start_time": 63.09,
+      "title_hint": "the first tool we're gonna look at is the rectangular",
+      "showcase_frame_time": 64.76666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_06.png",
+      "screenshot_metrics": {
+        "brightness": 49.87552083333333,
+        "contrast": 37.01568958928632,
+        "edge_density": 0.22292100694444444,
+        "nonblack": 0.9257725694444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 7,
+      "start_time": 68.13,
+      "title_hint": "tool and that just lets us draw a rectangle or",
+      "showcase_frame_time": 69.8,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_07.png",
+      "screenshot_metrics": {
+        "brightness": 49.9505859375,
+        "contrast": 37.05566210231177,
+        "edge_density": 0.22680989583333333,
+        "nonblack": 0.9261371527777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 8,
+      "start_time": 73.97,
+      "title_hint": "the left mouse button and then unhold it to create",
+      "showcase_frame_time": 75.66666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_08.png",
+      "screenshot_metrics": {
+        "brightness": 50.033528645833336,
+        "contrast": 37.065155422439965,
+        "edge_density": 0.2295095486111111,
+        "nonblack": 0.9262630208333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 9,
+      "start_time": 98.1,
+      "title_hint": "bottom left hand corner is now fixed and the other",
+      "showcase_frame_time": 99.76666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_09.png",
+      "screenshot_metrics": {
+        "brightness": 33.04063368055556,
+        "contrast": 27.868222082310965,
+        "edge_density": 0.21269097222222222,
+        "nonblack": 0.7959418402777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 10,
+      "start_time": 137.095,
+      "title_hint": "left click on that and now when i move this",
+      "showcase_frame_time": 140.43333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_10.png",
+      "screenshot_metrics": {
+        "brightness": 47.92718315972222,
+        "contrast": 34.595955487250635,
+        "edge_density": 0.20293402777777778,
+        "nonblack": 0.9162196180555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 11,
+      "start_time": 150.94,
+      "title_hint": "that nice selected area so now we can either work",
+      "showcase_frame_time": 152.63333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_11.png",
+      "screenshot_metrics": {
+        "brightness": 55.1295703125,
+        "contrast": 33.05480553564635,
+        "edge_density": 0.20059027777777777,
+        "nonblack": 0.9891015625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 12,
+      "start_time": 156.94,
+      "title_hint": "part is still selected right now we can see these",
+      "showcase_frame_time": 158.96666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_12.png",
+      "screenshot_metrics": {
+        "brightness": 47.59101996527778,
+        "contrast": 18.580326412688017,
+        "edge_density": 0.1616015625,
+        "nonblack": 0.9747482638888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 13,
+      "start_time": 165.765,
+      "title_hint": "tools that we use right now are going to apply",
+      "showcase_frame_time": 167.43333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_13.png",
+      "screenshot_metrics": {
+        "brightness": 55.9908984375,
+        "contrast": 33.44745048686495,
+        "edge_density": 0.22358072916666666,
+        "nonblack": 0.9896006944444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 14,
+      "start_time": 172.485,
+      "title_hint": "strawberry we might use this next tool which is the",
+      "showcase_frame_time": 174.16666666666666,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_14.png",
+      "screenshot_metrics": {
+        "brightness": 55.94318142361111,
+        "contrast": 33.51762085730578,
+        "edge_density": 0.22554253472222222,
+        "nonblack": 0.9890494791666666
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 15,
+      "start_time": 195.785,
+      "title_hint": "did with the rectangle and then we can come and",
+      "showcase_frame_time": 200.8,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_15.png",
+      "screenshot_metrics": {
+        "brightness": 49.43672743055556,
+        "contrast": 20.014113901507393,
+        "edge_density": 0.19547743055555555,
+        "nonblack": 0.9786414930555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 16,
+      "start_time": 220.765,
+      "title_hint": "this ellipse select mode right now it says replace the",
+      "showcase_frame_time": 222.43333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_16.png",
+      "screenshot_metrics": {
+        "brightness": 49.517573784722224,
+        "contrast": 20.77743593275812,
+        "edge_density": 0.11444878472222222,
+        "nonblack": 0.9894574652777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 17,
+      "start_time": 235.26001,
+      "title_hint": "a snowman shape here but then we have this part",
+      "showcase_frame_time": 236.93333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_17.png",
+      "screenshot_metrics": {
+        "brightness": 47.10672743055556,
+        "contrast": 23.948812018611473,
+        "edge_density": 0.24882378472222222,
+        "nonblack": 0.9599392361111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 18,
+      "start_time": 240.70001,
+      "title_hint": "individually like this and then we have a nice sort",
+      "showcase_frame_time": 242.4,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_18.png",
+      "screenshot_metrics": {
+        "brightness": 47.17066840277778,
+        "contrast": 24.289367652881555,
+        "edge_density": 0.2496484375,
+        "nonblack": 0.9590928819444444
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 19,
+      "start_time": 247.765,
+      "title_hint": "part of the mode that lets us subtract from the",
+      "showcase_frame_time": 249.43333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_19.png",
+      "screenshot_metrics": {
+        "brightness": 49.26542534722222,
+        "contrast": 20.833575850496363,
+        "edge_density": 0.16252604166666668,
+        "nonblack": 0.986171875
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 20,
+      "start_time": 276.005,
+      "title_hint": "be our total selection and then anything that we apply",
+      "showcase_frame_time": 278.7,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_20.png",
+      "screenshot_metrics": {
+        "brightness": 54.66501736111111,
+        "contrast": 29.94284442842691,
+        "edge_density": 0.21463975694444445,
+        "nonblack": 0.9878081597222222
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 21,
+      "start_time": 282.245,
+      "title_hint": "to that selected area the next tool we'll look at",
+      "showcase_frame_time": 283.93333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_21.png",
+      "screenshot_metrics": {
+        "brightness": 54.39809461805555,
+        "contrast": 30.06887401845262,
+        "edge_density": 0.21502170138888888,
+        "nonblack": 0.9877734375
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 22,
+      "start_time": 287.285,
+      "title_hint": "this lets us left click with our mouse to create",
+      "showcase_frame_time": 288.96666666666664,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_22.png",
+      "screenshot_metrics": {
+        "brightness": 49.64809461805555,
+        "contrast": 36.79818463778995,
+        "edge_density": 0.2137673611111111,
+        "nonblack": 0.9255859375
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 23,
+      "start_time": 295.26,
+      "title_hint": "the very last point and then we can come in",
+      "showcase_frame_time": 296.93333333333334,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_23.png",
+      "screenshot_metrics": {
+        "brightness": 49.702586805555555,
+        "contrast": 36.80257471239227,
+        "edge_density": 0.21395833333333333,
+        "nonblack": 0.9264496527777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 24,
+      "start_time": 305.48502,
+      "title_hint": "our selected area we can then use any tool that",
+      "showcase_frame_time": 307.8333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_24.png",
+      "screenshot_metrics": {
+        "brightness": 50.39775607638889,
+        "contrast": 37.26055659044943,
+        "edge_density": 0.23629340277777777,
+        "nonblack": 0.9258984375
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 25,
+      "start_time": 325.81,
+      "title_hint": "grab a brush and right now we just fill the",
+      "showcase_frame_time": 327.5,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_25.png",
+      "screenshot_metrics": {
+        "brightness": 49.921015625,
+        "contrast": 37.3949692705621,
+        "edge_density": 0.23327690972222223,
+        "nonblack": 0.9209114583333333
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 26,
+      "start_time": 332.675,
+      "title_hint": "but if we turn on feathering so i'll grab the",
+      "showcase_frame_time": 335.3666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_26.png",
+      "screenshot_metrics": {
+        "brightness": 49.8783203125,
+        "contrast": 37.450455912401196,
+        "edge_density": 0.23060329861111112,
+        "nonblack": 0.9170746527777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 27,
+      "start_time": 342.435,
+      "title_hint": "around the selected area so now if we grab the",
+      "showcase_frame_time": 347.1333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_27.png",
+      "screenshot_metrics": {
+        "brightness": 39.741046006944444,
+        "contrast": 30.050137431794855,
+        "edge_density": 0.20879340277777778,
+        "nonblack": 0.8437022569444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 28,
+      "start_time": 353.76,
+      "title_hint": "go to select all so now we see without the",
+      "showcase_frame_time": 357.76666666666665,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_28.png",
+      "screenshot_metrics": {
+        "brightness": 28.44940104166667,
+        "contrast": 27.88578470039039,
+        "edge_density": 0.19798177083333332,
+        "nonblack": 0.721484375
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 29,
+      "start_time": 424.71,
+      "title_hint": "of the lines around and then we can always come",
+      "showcase_frame_time": 426.4,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_29.png",
+      "screenshot_metrics": {
+        "brightness": 40.99182291666666,
+        "contrast": 26.17035392299372,
+        "edge_density": 0.1766970486111111,
+        "nonblack": 0.8879123263888888
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 30,
+      "start_time": 430.87,
+      "title_hint": "hit the enter key and now we have this part",
+      "showcase_frame_time": 432.9,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_30.png",
+      "screenshot_metrics": {
+        "brightness": 36.44786024305556,
+        "contrast": 26.030029870456485,
+        "edge_density": 0.15127604166666667,
+        "nonblack": 0.8610633680555555
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 31,
+      "start_time": 437.07498,
+      "title_hint": "keyboard to copy this and then we can get a",
+      "showcase_frame_time": 444.76666666666665,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_31.png",
+      "screenshot_metrics": {
+        "brightness": 127.61878472222222,
+        "contrast": 99.1150015339689,
+        "edge_density": 0.12488715277777777,
+        "nonblack": 0.9912543402777778
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 32,
+      "start_time": 509.56,
+      "title_hint": "here at the left and then it will select much",
+      "showcase_frame_time": 511.23333333333335,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_32.png",
+      "screenshot_metrics": {
+        "brightness": 50.13051649305555,
+        "contrast": 37.48956071353266,
+        "edge_density": 0.22152777777777777,
+        "nonblack": 0.9257248263888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 33,
+      "start_time": 525.455,
+      "title_hint": "the fuzzy select is gonna help us get away from",
+      "showcase_frame_time": 527.1333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_33.png",
+      "screenshot_metrics": {
+        "brightness": 49.84149305555555,
+        "contrast": 37.27002475636728,
+        "edge_density": 0.21960503472222223,
+        "nonblack": 0.9259895833333334
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 34,
+      "start_time": 534.895,
+      "title_hint": "our threshold right we can then select just a certain",
+      "showcase_frame_time": 537.9,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_34.png",
+      "screenshot_metrics": {
+        "brightness": 34.503980034722225,
+        "contrast": 27.979317009889275,
+        "edge_density": 0.20513020833333334,
+        "nonblack": 0.8781944444444445
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 35,
+      "start_time": 575.75,
+      "title_hint": "the whole thing out and then you forget you were",
+      "showcase_frame_time": 579.7666666666667,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_35.png",
+      "screenshot_metrics": {
+        "brightness": 38.344375,
+        "contrast": 25.363200929987734,
+        "edge_density": 0.16186197916666667,
+        "nonblack": 0.8785633680555556
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 36,
+      "start_time": 591.905,
+      "title_hint": "on the subtraction mode right now one thing i like",
+      "showcase_frame_time": 593.9333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_36.png",
+      "screenshot_metrics": {
+        "brightness": 46.157413194444445,
+        "contrast": 32.24650813744702,
+        "edge_density": 0.20004340277777777,
+        "nonblack": 0.9102951388888889
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 37,
+      "start_time": 597.75,
+      "title_hint": "replace current selection mode and then use the shortcut keys",
+      "showcase_frame_time": 599.4333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_37.png",
+      "screenshot_metrics": {
+        "brightness": 38.812947048611115,
+        "contrast": 26.169498882929616,
+        "edge_density": 0.1807248263888889,
+        "nonblack": 0.8844140625
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 38,
+      "start_time": 630.33997,
+      "title_hint": "freehand draw in these and then we can freehand draw",
+      "showcase_frame_time": 634.0333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_38.png",
+      "screenshot_metrics": {
+        "brightness": 37.95653645833333,
+        "contrast": 25.26140700430624,
+        "edge_density": 0.1900954861111111,
+        "nonblack": 0.8795182291666667
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 39,
+      "start_time": 648.06,
+      "title_hint": "may not be clear right now how powerful this is",
+      "showcase_frame_time": 649.7333333333333,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_39.png",
+      "screenshot_metrics": {
+        "brightness": 49.801723090277775,
+        "contrast": 36.95853785620394,
+        "edge_density": 0.22330729166666666,
+        "nonblack": 0.9257986111111111
+      },
+      "is_relevant": true
+    },
+    {
+      "index": 40,
+      "start_time": 667.125,
+      "title_hint": "to catching you in the next video",
+      "showcase_frame_time": 668.8,
+      "screenshot": "screenshots/06_Gimp Lesson 6  \uff5c Using Selection Tools/step_40.png",
+      "screenshot_metrics": {
+        "brightness": 49.73460503472222,
+        "contrast": 36.92846694011447,
+        "edge_density": 0.2249609375,
+        "nonblack": 0.9259505208333333
+      },
+      "is_relevant": true
+    }
+  ]
+}
