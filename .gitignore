@@ -14,3 +14,5 @@ wheels/
 *.mkv
 *.webm
 temp_videos/
+
+node_modules

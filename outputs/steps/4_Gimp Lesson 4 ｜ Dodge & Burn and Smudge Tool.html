@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>4 Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #f5f5f8;
+      color: #101022;
+      line-height: 1.7;
+      padding: 2.5rem 1.25rem 4rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.94);
+      padding: 2.5rem 3rem;
+      border-radius: 24px;
+      box-shadow: 0 20px 40px rgba(15, 18, 80, 0.1);
+    }
+    h1, h2, h3, h4, h5, h6 { color: #1c1f60; margin-top: 2rem; }
+    h1 { font-size: clamp(2.25rem, 3vw, 3.2rem); margin-top: 0; }
+    h2 { font-size: 1.9rem; border-bottom: 2px solid rgba(26, 32, 98, 0.15); padding-bottom: 0.4rem; }
+    p { margin: 1rem 0; }
+    em { color: #3b3f92; }
+    img {
+      max-width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 12px 30px rgba(32, 36, 120, 0.18);
+    }
+    code, pre {
+      font-family: ui-monospace, SFMono-Regular, SFMono, Menlo, Consolas, "Liberation Mono", monospace;
+    }
+    pre {
+      background: rgba(41, 44, 110, 0.09);
+      padding: 0.75rem 1rem;
+      border-radius: 12px;
+      overflow-x: auto;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { background: #050508; color: #e4e5fb; }
+      main { background: rgba(11, 13, 35, 0.78); box-shadow: 0 18px 46px rgba(0, 0, 0, 0.4); }
+      h1, h2, h3, h4, h5, h6 { color: #f0f1ff; }
+      em { color: #a8acf8; }
+      pre { background: rgba(82, 86, 180, 0.35); }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    import {Fragment as _Fragment, jsx as _jsx, jsxs as _jsxs} from "react/jsx-runtime";
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    em: "em",
+    h1: "h1",
+    h2: "h2",
+    p: "p",
+    ...props.components
+  };
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.h1, {
+      id: "4-gimp-lesson-4--dodge--burn-and-smudge-tool",
+      children: _jsx(_components.a, {
+        href: "#4-gimp-lesson-4--dodge--burn-and-smudge-tool",
+        children: "4 Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool"
+      })
+    }), "\n", _jsx(_components.h2, {
+      id: "step-1-welcome-to-another-gimp-tutorial-in-this-video",
+      children: _jsx(_components.a, {
+        href: "#step-1-welcome-to-another-gimp-tutorial-in-this-video",
+        children: "Step 1: welcome to another gimp tutorial in this video"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 0:00, showcase 0:05, ends 0:12"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 1 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_01.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "Welcome to another GIMP tutorial. In this video, we're gonna be playing with the dodge and burn and the smudge tools and learning about some of the di…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-2-these-tools-and-were-going-to-be-working-with-an",
+      children: _jsx(_components.a, {
+        href: "#step-2-these-tools-and-were-going-to-be-working-with-an",
+        children: "Step 2: these tools and we're going to be working with an"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 0:12, showcase 0:14, ends 0:51"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 2 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_02.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "familiar with using these tools. And we're going to be working with an actual photograph this time. So I'm gonna go to file and go to open. You can ch…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-3-dont-worry-about-that-for-now-its-just-how-gimp",
+      children: _jsx(_components.a, {
+        href: "#step-3-dont-worry-about-that-for-now-its-just-how-gimp",
+        children: "Step 3: don't worry about that for now it's just how gimp"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 0:51, showcase 0:53, ends 1:09"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 3 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_03.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "to convert but don't worry about that for now. It's just how GIMP interprets the colors in the image. So this, I added this I think in dark table earl…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-4-its-very-very-small-right-now-so-i-may-bring",
+      children: _jsx(_components.a, {
+        href: "#step-4-its-very-very-small-right-now-so-i-may-bring",
+        children: "Step 4: it's very very small right now so i may bring"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 1:09, showcase 1:10, ends 2:16"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 4 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_04.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "tool. And it's very very small right now, so I may bring up the size by just using my scroll wheel or left clicking and dragging up this size to get t…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-5-can-adjust-the-angle-so-now-we-have-this-an",
+      children: _jsx(_components.a, {
+        href: "#step-5-can-adjust-the-angle-so-now-we-have-this-an",
+        children: "Step 5: can adjust the angle so now we have this an"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 2:16, showcase 2:18, ends 2:22"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 5 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_05.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "in a certain area, we can adjust the angle. So now we have this an oval here that's sort of at an angle. So we can play with those. And"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-6-so-we-can-play-with-those-and-weve-learned-in",
+      children: _jsx(_components.a, {
+        href: "#step-6-so-we-can-play-with-those-and-weve-learned-in",
+        children: "Step 6: so we can play with those and we've learned in"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 2:22, showcase 2:24, ends 2:31"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 6 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_06.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "So we can play with those. And we've learned in the past we can just click this button here to reset these back to default if we don't like what we've…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-7-to-the-brush-itself-and-then-but-these-are-all",
+      children: _jsx(_components.a, {
+        href: "#step-7-to-the-brush-itself-and-then-but-these-are-all",
+        children: "Step 7: to the brush itself and then but these are all"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 2:31, showcase 2:32, ends 3:22"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 7 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_07.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "that we've made to the brush itself. And then but these are all similar. If you notice if we went to the pencil tool or the brush tool, these all have…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-8-it-to-to-different-things-lets-look-at-the-dodge",
+      children: _jsx(_components.a, {
+        href: "#step-8-it-to-to-different-things-lets-look-at-the-dodge",
+        children: "Step 8: it to to different things let's look at the dodge"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 3:22, showcase 3:24, ends 4:07"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 8 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_08.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "We can apply it to to different things. Let's look at the dodge and burn. So if we go, I mean control z and undo some of that that I did there. And, o…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-9-of-the-image-so-right-now-we-have-it-set",
+      children: _jsx(_components.a, {
+        href: "#step-9-of-the-image-so-right-now-we-have-it-set",
+        children: "Step 9: of the image so right now we have it set"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 4:07, showcase 4:09, ends 4:29"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 9 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_09.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "affects the colors of the image. So right now, we have it set to if we scroll down, we have it set to dodge. And and so dodge is going to kind of ligh…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-10-burn-is-gonna-be-the-opposite-so-if-we-select",
+      children: _jsx(_components.a, {
+        href: "#step-10-burn-is-gonna-be-the-opposite-so-if-we-select",
+        children: "Step 10: burn is gonna be the opposite so if we select"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 4:29, showcase 4:32, ends 4:50"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 10 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_10.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "Burn is gonna be the opposite. So if we select burn down here, burn kind of makes the colors more dark. Whatever's in that area, it makes it darker an…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-11-so-thats-dodge-and-burn-and-theres-different-options-right",
+      children: _jsx(_components.a, {
+        href: "#step-11-so-thats-dodge-and-burn-and-theres-different-options-right",
+        children: "Step 11: so that's dodge and burn and there's different options right"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 4:50, showcase 4:52, ends 5:11"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 11 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_11.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "So that's dodge and burn. And there's different options. Right now, we did we did adjusting the midtones. We could do the highlights, which you're gon…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-12-some-sort-of-oh-and-then-i-need-to-change",
+      children: _jsx(_components.a, {
+        href: "#step-12-some-sort-of-oh-and-then-i-need-to-change",
+        children: "Step 12: some sort of oh and then i need to change"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 5:11, showcase 5:14, ends 5:43"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 12 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_12.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "achieve some sort of, oh, and then I need to change it to, dodge instead of burn. So we'll do dodge here. So it's gonna lighten my teeth a little bit,…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-13-and-yeah-thats-really-what-were-gonna-cover-today-so",
+      children: _jsx(_components.a, {
+        href: "#step-13-and-yeah-thats-really-what-were-gonna-cover-today-so",
+        children: "Step 13: and yeah that's really what we're gonna cover today so"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 5:43, showcase 5:45, ends 5:57"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 13 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_13.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "And, yeah. That's really what we're gonna cover today. So play with smudge, play with dodge and burn. But just kind of realize everything we've looked…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-14-all-these-brush-settings-and-then-down-below-it-kind",
+      children: _jsx(_components.a, {
+        href: "#step-14-all-these-brush-settings-and-then-down-below-it-kind",
+        children: "Step 14: all these brush settings and then down below it kind"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 5:57, showcase 5:59, ends 6:08"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 14 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_14.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "they have. It's all these brush settings and then down below it kind of has some specific settings more specific to that tool that we're using. Hopefu…"
+    }), "\n", _jsx(_components.h2, {
+      id: "step-15-play-with-those-and-the-next-video-well-look-at",
+      children: _jsx(_components.a, {
+        href: "#step-15-play-with-those-and-the-next-video-well-look-at",
+        children: "Step 15: play with those and the next video we'll look at"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.em, {
+        children: "starts 6:08, showcase 6:11, ends 6:20"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "![Step 15 screenshot](../screenshots/4_Gimp Lesson 4 ｜ Dodge & Burn and Smudge Tool/step_15.png)"
+    }), "\n", _jsx(_components.p, {
+      children: "informative. Go ahead and play with those and the next video we'll look at some more tools and continue learning about GIMP."
+    })]
+  });
+}
+export default function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? _jsx(MDXLayout, {
+    ...props,
+    children: _jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+  </main>
+</body>
+</html>
